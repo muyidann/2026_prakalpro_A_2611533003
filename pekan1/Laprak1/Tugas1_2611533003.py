@@ -1,0 +1,6 @@
+print("=== BIODATA MAHASISWA ===")
+print("Nama    : M. Yiwanu Marhudan")
+print("NIM     : 2611533003")
+print("Jurusan : Informatika")
+print("Kelas   : IF-A")
+print("Hobi    : Membaca Komik")
