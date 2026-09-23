@@ -1,6 +1,3 @@
-# Buat file dengan nama if_elif_else1_nim.py
-# Buat program untuk conditional if
-# Nama variabel ditambah 4 digit nim terakhir contoh: ipk_1234
 # Program ini menggunakan fungsi input()
 
 umur_3003 = int(input("Input umur anda: "))
