@@ -1,5 +1,3 @@
-# tugas4_3003.py
-
 print("=== SISTEM LOKET ALPRO ADVENTURE PARK ===")
 
 # 1. INPUT DATA PENGUNJUNG
