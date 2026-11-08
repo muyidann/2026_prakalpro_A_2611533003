@@ -34,7 +34,7 @@ for i in range(1, n + 1):
 
 average = total / n
 
-print("\n===== CLASS SCORE RECAP =====")
+print("\n---CLASS SCORE RECAP---")
 print("Total score:", total)
 print("Average score:", round(average, 2))
 print("Passed:", passed)
